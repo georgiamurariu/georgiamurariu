@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Georgiana!
 
-Computer Science student passionate about **Software Engineering, Web Development and Distributed Systems**.
-
-Currently working with **Java, Spring Boot, PostgreSQL, React, C/C++ and Git**.
+Computer Science student focused on Software Engineering, Web Development and Distributed Systems. Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Swift and Git.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge)](https://georgiana-murariu-presentation.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Georgiana_Murariu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiana-roxana-murariu-aa7272271/)
