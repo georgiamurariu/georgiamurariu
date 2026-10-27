@@ -72,6 +72,49 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
+<h3 align="center">Featured Projects</h3>
+
+<div align="center">
+
+<a href="https://github.com/georgiamurariu/SpotyFire">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgiamurariu&repo=SpotyFire&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" width="49%" alt="SpotyFire"/>
+</a>
+<a href="https://github.com/georgiamurariu/FirstAid-plus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgiamurariu&repo=FirstAid-plus&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" width="49%" alt="FirstAid Plus"/>
+</a>
+
+<a href="https://github.com/georgiamurariu/BenchMark-mobileIOS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgiamurariu&repo=BenchMark-mobileIOS&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" width="49%" alt="BenchMark iOS"/>
+</a>
+<a href="https://github.com/georgiamurariu/Subacvatic_scene">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=georgiamurariu&repo=Subacvatic_scene&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" width="49%" alt="Subacvatic Scene"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">Connect With Me</h3>
+
+<div align="center">
+
+<a href="https://georgiana-murariu-presentation.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-9B59B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/georgiana-roxana-murariu-aa7272271/">
+  <img src="https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/georgiamurariu">
+  <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+---
 
 ### Open to
 
@@ -79,3 +122,21 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 - Junior Developer opportunities
 - Collaboration on interesting projects
 - Open-source contributions
+
+
+<br/>
+
+<div align="center">
+
+<h3>✦ Thanks for stopping by! ✦</h3>
+
+<p>Turning ideas into code, one commit at a time.</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100D16,50:6B21A8,100:C084FC&height=100&section=footer" width="100%" alt="Purple footer"/>
+
+<sub>Designed with ♡ by Georgiana · 2026</sub>
+
+</div>
+
