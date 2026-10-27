@@ -32,9 +32,15 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
-### 🛠️ Tech Stack
 
-`Java` `C` `C++` `JavaScript` `React` `Spring Boot` `PostgreSQL` `HTML` `CSS` `Tailwind CSS` `Git` `GitHub`
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,react,spring,postgres,html,css,tailwind,git,github,swift&theme=dark&perline=7" alt="My Tech Stack" />
+
+</div>
+
 
 ---
 
