@@ -44,9 +44,6 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -58,6 +55,18 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 <img src="https://streak-stats.demolab.com?user=georgiamurariu&theme=dark&background=100D16&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=957BA8&border=392448" alt="GitHub Streak" width="460"/>
 
 </div>
+
+---
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgiamurariu&bg_color=100D16&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=6B21A8&hide_border=true" alt="Georgiana's GitHub Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
 
 ---
 
