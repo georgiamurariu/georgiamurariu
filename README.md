@@ -48,13 +48,13 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=georgiamurariu&show_icons=true&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" alt="Georgiana's GitHub Stats" width="460"/>
+<img src="https://github-stats-extended.vercel.app/api?username=georgiamurariu&show_icons=true&bg_color=100D16&title_color=C084FC&text_color=E9D5FF&icon_color=A855F7&border_color=392448" alt="GitHub Stats" width="49%" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=georgiamurariu&theme=dark&background=100D16&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=957BA8&border=392448" alt="GitHub Streak" width="460"/>
+<img src="https://streak-stats.demolab.com?user=georgiamurariu&theme=dark&background=100D16&ring=A855F7&fire=C084FC&currStreakLabel=C084FC&sideLabels=E9D5FF&dates=957BA8&border=392448" alt="GitHub Streak" width="49%" />
 
 </div>
+
+<br/>
 
 ---
 
