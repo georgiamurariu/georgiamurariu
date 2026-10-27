@@ -1,9 +1,26 @@
+
+<div align="center">
+
+<img src="./github-banner.png" alt="Georgiana Murariu — Software Developer" width="100%"/>
+
+<br/>
+
 # 👋 Hi, I'm Georgiana!
 
-Computer Science student focused on Software Engineering, Web Development and Distributed Systems. Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Swift and Git.
+**Computer Science Student · Software Developer · Creative Thinker**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge)](https://georgiana-murariu-presentation.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Georgiana_Murariu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiana-roxana-murariu-aa7272271/)
+Computer Science student focused on Software Engineering, Web Development and Distributed Systems.
+
+Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Swift and Git.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-9B59B6?style=for-the-badge)](https://georgiana-murariu-presentation.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiana-roxana-murariu-aa7272271/)
+
+</div>
+
+---
 
 ### 🚀 Currently
 
@@ -13,9 +30,13 @@ Computer Science student focused on Software Engineering, Web Development and Di
 - Learning more about distributed systems and software architecture
 - Building personal projects to improve my software development skills
 
+---
+
 ### 🛠️ Tech Stack
 
 `Java` `C` `C++` `JavaScript` `React` `Spring Boot` `PostgreSQL` `HTML` `CSS` `Tailwind CSS` `Git` `GitHub`
+
+---
 
 ### 🤝 Open to
 
