@@ -37,7 +37,7 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,react,spring,postgres,html,css,tailwind,git,github,swift&theme=dark&perline=7" alt="My Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,python,react,spring,postgres,html,css,tailwind,git,github,swift&theme=dark&perline=15" alt="My Tech Stack" width="100%" />
 
 </div>
 
