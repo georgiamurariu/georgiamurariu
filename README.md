@@ -5,7 +5,7 @@
 
 <br/>
 
-# 👋 Hi, I'm Georgiana!
+# Hi, I'm Georgiana!
 
 **Computer Science Student · Software Developer · Creative Thinker**
 
@@ -22,7 +22,7 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
-### 🚀 Currently
+### Currently
 
 - Building microservice-based applications with **Spring Boot**
 - Working with **PostgreSQL** and REST APIs
@@ -33,7 +33,7 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 ---
 
 
-<h3 align="center">💻 Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
@@ -58,11 +58,13 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 
 ---
 
-<h3 align="center">📈 Contribution Activity</h3>
+<h3 align="center">Contribution Activity</h3>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=georgiamurariu&bg_color=100D16&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=6B21A8&hide_border=true" alt="Georgiana's GitHub Activity Graph" width="100%"/>
+<a href="https://github.com/georgiamurariu">
+  <img src="https://ghchart.rshah.org/9B59B6/georgiamurariu" alt="Georgiana's GitHub Contributions" width="100%"/>
+</a>
 
 </div>
 
@@ -71,7 +73,7 @@ Currently building projects with Java, Spring Boot, PostgreSQL, React, C/C++, Sw
 ---
 
 
-### 🤝 Open to
+### Open to
 
 - Software Engineering Internships
 - Junior Developer opportunities
